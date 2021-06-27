@@ -1,0 +1,5 @@
+Texto creado a partir de formulario: 
+
+Nombre del empleado: 
+Número de empleado 
+El RFC de empleado es: 
